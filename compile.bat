@@ -1,30 +1,33 @@
 @echo off
-setlocal
-
-REM --- תמיד לעבוד מתיקיית הסקריפט ---
+setlocal EnableExtensions
+chcp 65001 >nul
 cd /d "%~dp0"
 
-REM --- תיקיית פלט ---
-set OUTDIR=out\classes
-if not exist "%OUTDIR%" mkdir "%OUTDIR%"
+echo [Build] Compiling...
+if not exist "out" mkdir "out"
+dir /s /b "src\*.java" > "out\sources.txt" 2>nul
 
-echo [INFO] Compiling sources to %OUTDIR% ...
-
-REM --- קומפילציה לכל קבצי ה-Java תחת src\main\java ---
-javac -encoding UTF-8 -d "%OUTDIR%" ^
-  src\main\java\server\net\*.java ^
-  src\main\java\server\domain\customers\*.java ^
-  src\main\java\server\domain\employees\*.java ^
-  src\main\java\server\domain\invantory\*.java ^
-  src\main\java\server\domain\sales\*.java ^
-  src\main\java\server\shared\*.java ^
-  src\main\java\server\util\*.java
-
-if errorlevel 1 (
-  echo [ERROR] Compilation failed.
-  pause
-  exit /b 1
+if not exist "out\sources.txt" (
+  echo [Build] ERROR: no sources list.
+  pause & exit /b 1
 )
 
-echo [INFO] Compilation successful.
+for /f %%A in ('type "out\sources.txt" ^| find /c /v ""') do set COUNT=%%A
+if "%COUNT%"=="0" (
+  echo [Build] ERROR: no .java files under src\
+  pause & exit /b 1
+)
+
+javac -encoding UTF-8 -d "out" @"out\sources.txt"
+if errorlevel 1 (
+  echo [Build] FAILED.
+  pause & exit /b 1
+)
+
+if not exist "data" mkdir "data"
+if not exist "logs" mkdir "logs"
+if not exist "data\employees.txt" type nul > "data\employees.txt"
+
+echo [Build] OK.
 pause
+exit /b 0
