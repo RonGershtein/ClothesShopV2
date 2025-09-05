@@ -1,0 +1,98 @@
+Aug 27, 2025 8:40:12 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+Aug 27, 2025 8:41:40 PM server.util.ChatLogger logUserConnected
+INFO: User connected: test (SALESPERSON) from HOLON
+Aug 27, 2025 8:41:59 PM server.util.ChatLogger logUserConnected
+INFO: User connected: dana (SHIFT_MANAGER) from TEL_AVIV
+Aug 27, 2025 8:42:27 PM server.util.ChatLogger logConversationStarted
+INFO: Conversation started: 94f78cbd with participants: test,dana
+Aug 27, 2025 8:42:27 PM server.util.ChatLogger logRequestAccepted
+INFO: Chat request accepted: 10032036 by dana (TEL_AVIV)
+Aug 27, 2025 8:43:01 PM server.util.ChatLogger logConversationEnded
+INFO: Conversation ended: 94f78cbd (duration: 33s)
+אוג׳ 27, 2025 11:59:37 אחה״צ server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+אוג׳ 28, 2025 12:01:06 לפנה״צ server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+אוג׳ 28, 2025 12:02:37 לפנה״צ server.util.ChatLogger logUserConnected
+INFO: User connected: nissim (SALESPERSON) from TEL_AVIV
+אוג׳ 28, 2025 12:03:17 לפנה״צ server.util.ChatLogger logUserConnected
+INFO: User connected: test (SALESPERSON) from HOLON
+אוג׳ 28, 2025 12:03:48 לפנה״צ server.util.ChatLogger logConversationStarted
+INFO: Conversation started: c5934442 with participants: nissim,test
+אוג׳ 28, 2025 12:03:48 לפנה״צ server.util.ChatLogger logRequestAccepted
+INFO: Chat request accepted: f616dbb9 by test (HOLON)
+אוג׳ 28, 2025 12:04:12 לפנה״צ server.util.ChatLogger logUserConnected
+INFO: User connected: dana (SHIFT_MANAGER) from TEL_AVIV
+אוג׳ 28, 2025 12:04:34 לפנה״צ server.util.ChatLogger logConversationJoined
+INFO: User dana joined conversation: c5934442
+אוג׳ 28, 2025 12:04:58 לפנה״צ server.util.ChatLogger logConversationLeft
+INFO: User dana left conversation: c5934442
+אוג׳ 28, 2025 12:05:55 לפנה״צ server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: nissim (SALESPERSON) from TEL_AVIV
+אוג׳ 28, 2025 12:05:55 לפנה״צ server.util.ChatLogger logRequestCancelled
+INFO: Chat request cancelled: d7e8a346 from nissim - Request cancelled
+אוג׳ 28, 2025 12:05:57 לפנה״צ server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: test (SALESPERSON) from HOLON
+אוג׳ 28, 2025 12:05:59 לפנה״צ server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: dana (SHIFT_MANAGER) from TEL_AVIV
+ספט׳ 03, 2025 5:40:40 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 5:54:52 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 5:55:22 PM server.util.ChatLogger logUserConnected
+INFO: User connected: ron (SALESPERSON) from HOLON
+ספט׳ 03, 2025 5:55:23 PM server.util.ChatLogger logUserConnected
+INFO: User connected: noa (SHIFT_MANAGER) from RISHON
+ספט׳ 03, 2025 5:55:44 PM server.util.ChatLogger logConversationStarted
+INFO: Conversation started: b43e4982 with participants: ron,noa
+ספט׳ 03, 2025 5:55:44 PM server.util.ChatLogger logRequestAccepted
+INFO: Chat request accepted: 537d42be by noa (RISHON)
+ספט׳ 03, 2025 6:00:57 PM server.util.ChatLogger logConversationEnded
+INFO: Conversation ended: b43e4982 (duration: 312s)
+ספט׳ 03, 2025 6:01:02 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: ron (SALESPERSON) from HOLON
+ספט׳ 03, 2025 6:01:02 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: ron (SALESPERSON) from HOLON
+ספט׳ 03, 2025 6:09:39 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: noa (SHIFT_MANAGER) from RISHON
+ספט׳ 03, 2025 7:30:42 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 7:38:10 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 8:04:59 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 8:14:34 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 8:16:43 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 8:51:15 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 03, 2025 8:59:44 PM server.util.ChatLogger logUserConnected
+INFO: User connected: ron (SALESPERSON) from HOLON
+ספט׳ 03, 2025 8:59:47 PM server.util.ChatLogger logUserConnected
+INFO: User connected: dana (SALESPERSON) from HOLON
+ספט׳ 03, 2025 9:01:28 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: dana (SALESPERSON) from HOLON
+ספט׳ 03, 2025 9:01:28 PM server.util.ChatLogger logRequestCancelled
+INFO: Chat request cancelled: f48cf327 from dana - Request cancelled
+ספט׳ 03, 2025 9:01:28 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: dana (SALESPERSON) from HOLON
+ספט׳ 03, 2025 9:04:06 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 05, 2025 1:00:12 PM server.util.ChatLogger logServerStart
+INFO: Chat server started on port 6060
+ספט׳ 05, 2025 1:00:15 PM server.util.ChatLogger logUserConnected
+INFO: User connected: ron (SALESPERSON) from HOLON
+ספט׳ 05, 2025 1:00:17 PM server.util.ChatLogger logUserConnected
+INFO: User connected: noa (SHIFT_MANAGER) from TEL_AVIV
+ספט׳ 05, 2025 1:00:34 PM server.util.ChatLogger logConversationStarted
+INFO: Conversation started: 6a2f00e8 with participants: noa,ron
+ספט׳ 05, 2025 1:00:34 PM server.util.ChatLogger logRequestAccepted
+INFO: Chat request accepted: 221c83d0 by ron (HOLON)
+ספט׳ 05, 2025 1:00:42 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: ron (SALESPERSON) from HOLON
+ספט׳ 05, 2025 1:00:48 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: noa (SHIFT_MANAGER) from TEL_AVIV
+ספט׳ 05, 2025 1:00:48 PM server.util.ChatLogger logUserDisconnected
+INFO: User disconnected: noa (SHIFT_MANAGER) from TEL_AVIV

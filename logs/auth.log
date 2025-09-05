@@ -1,0 +1,314 @@
+אוג׳ 18, 2025 7:16:57 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admin
+אוג׳ 18, 2025 7:23:04 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 7:34:03 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: 
+אוג׳ 18, 2025 7:34:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 7:37:34 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 7:39:16 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 7:46:37 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 7:47:27 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 7:58:39 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 7:58:43 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 7:59:28 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 8:08:33 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 8:08:37 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 8:09:33 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 8:09:36 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 8:10:09 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 8:11:05 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: tal
+אוג׳ 18, 2025 8:16:02 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: 
+אוג׳ 18, 2025 8:16:06 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 8:16:16 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 8:16:19 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 8:16:22 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: tal
+אוג׳ 18, 2025 8:54:47 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 8:55:02 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+אוג׳ 18, 2025 8:55:16 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: tal
+אוג׳ 18, 2025 8:55:26 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 9:24:03 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 9:24:11 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 9:35:01 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 9:35:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 9:43:50 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 18, 2025 9:43:56 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 9:45:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+אוג׳ 18, 2025 9:45:14 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 22, 2025 11:44:44 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+Aug 22, 2025 11:44:58 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 22, 2025 11:58:41 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+Aug 27, 2025 2:15:59 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:22:12 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:25:34 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:27:49 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:31:17 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:37:15 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:41:19 AM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admin
+Aug 27, 2025 2:41:47 AM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admin
+Aug 27, 2025 2:44:12 AM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admin
+Aug 27, 2025 2:47:20 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 2:49:43 AM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+Aug 27, 2025 6:19:55 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: noam
+Aug 27, 2025 6:20:02 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:21:26 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:23:44 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:37:07 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:41:40 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:41:53 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:54:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 6:54:26 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:00:30 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:04:12 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:06:47 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:07:52 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:09:25 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admon
+Aug 27, 2025 7:09:29 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:14:19 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:17:43 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:28:55 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:30:29 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 7:38:21 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 7:40:51 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 7:41:16 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: admin
+Aug 27, 2025 7:41:49 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: shira
+Aug 27, 2025 7:42:00 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: shira
+Aug 27, 2025 7:42:05 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: shira
+Aug 27, 2025 7:42:12 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: shira
+Aug 27, 2025 7:43:04 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: amir
+Aug 27, 2025 7:43:07 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: amir
+Aug 27, 2025 7:43:13 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: amir
+Aug 27, 2025 7:44:06 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 7:44:24 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: test
+Aug 27, 2025 7:44:30 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+Aug 27, 2025 7:49:07 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 7:49:29 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 7:55:02 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+Aug 27, 2025 7:55:07 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 7:55:17 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 7:55:25 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 7:55:44 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 7:56:06 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 7:56:17 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 7:56:38 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 7:56:44 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 8:03:25 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+Aug 27, 2025 8:03:38 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 8:07:32 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: noam
+Aug 27, 2025 8:07:34 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 8:07:44 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+Aug 27, 2025 8:07:48 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 8:07:53 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 8:13:48 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 8:18:22 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 8:18:30 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: dana
+Aug 27, 2025 8:19:02 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 8:19:09 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: dana
+Aug 27, 2025 8:26:33 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 8:41:16 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+Aug 27, 2025 8:41:20 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+Aug 27, 2025 8:41:24 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+Aug 27, 2025 8:41:26 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+אוג׳ 27, 2025 10:05:32 אחה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+אוג׳ 27, 2025 11:54:02 אחה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+אוג׳ 27, 2025 11:54:09 אחה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+אוג׳ 27, 2025 11:54:16 אחה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+אוג׳ 27, 2025 11:54:21 אחה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+אוג׳ 28, 2025 12:02:03 לפנה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+אוג׳ 28, 2025 12:02:12 לפנה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: nissim
+אוג׳ 28, 2025 12:02:20 לפנה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: test
+אוג׳ 28, 2025 12:02:28 לפנה״צ server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 5:55:06 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 03, 2025 5:55:09 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 6:11:55 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 03, 2025 6:30:00 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 03, 2025 6:30:05 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 03, 2025 7:11:23 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 03, 2025 7:25:15 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 03, 2025 7:26:04 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 7:30:56 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 8:55:10 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: noa
+ספט׳ 03, 2025 8:55:27 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: lihi
+ספט׳ 03, 2025 8:58:51 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 03, 2025 8:58:56 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 03, 2025 8:59:00 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 8:59:04 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+ספט׳ 03, 2025 8:59:38 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: dana
+ספט׳ 03, 2025 9:04:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 03, 2025 9:08:38 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 03, 2025 9:51:08 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 03, 2025 9:53:09 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:18:10 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:21:04 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: ron
+ספט׳ 05, 2025 12:21:07 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:21:13 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 05, 2025 12:21:17 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: lihi
+ספט׳ 05, 2025 12:39:09 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:46:10 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 05, 2025 12:56:27 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: �����
+ספט׳ 05, 2025 12:56:37 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:56:41 PM server.domain.employees.AuthService loginEmployee
+WARNING: Double login blocked: noa
+ספט׳ 05, 2025 12:59:55 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 12:59:58 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: noa
+ספט׳ 05, 2025 1:01:45 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:06:25 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:07:16 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:07:43 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:08:47 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:10:18 PM server.domain.employees.AuthService loginEmployee
+WARNING: Employee login FAIL: rin
+ספט׳ 05, 2025 1:10:21 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron
+ספט׳ 05, 2025 1:11:38 PM server.domain.employees.AuthService loginEmployee
+INFO: Employee login OK: ron

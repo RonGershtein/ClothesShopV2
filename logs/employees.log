@@ -1,0 +1,6 @@
+Aug 27, 2025 7:27:14 PM server.domain.employees.EmployeeDirectory addEmployee
+INFO: EMPLOYEE_ADDED: ID=10, Username=test2, Role=SALESPERSON, Branch=HOLON, Account=323134, Phone=123134123
+Aug 27, 2025 7:27:42 PM server.domain.employees.EmployeeDirectory deleteById
+INFO: EMPLOYEE_DELETED: ID=10
+Aug 27, 2025 7:43:58 PM server.domain.employees.EmployeeDirectory addEmployee
+INFO: EMPLOYEE_ADDED: ID=10, Username=nissim, Role=SALESPERSON, Branch=TEL_AVIV, Account=4175, Phone=05432165478

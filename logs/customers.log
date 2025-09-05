@@ -1,0 +1,8 @@
+Aug 27, 2025 7:30:49 PM server.domain.customers.CustomerService addCustomer
+INFO: CUSTOMER_ADDED: ID=55224411, FullName=lia oshri, Phone=0544455668, Type=NEW
+אוג׳ 27, 2025 11:56:51 אחה״צ server.domain.customers.CustomerService addCustomer
+INFO: CUSTOMER_ADDED: ID=231456, FullName=raz, Phone=050-456321, Type=NEW
+ספט׳ 03, 2025 6:12:00 PM server.domain.customers.CustomerService addCustomer
+INFO: CUSTOMER_ADDED: ID=1, FullName=rr, Phone=555, Type=NEW
+ספט׳ 05, 2025 12:46:39 PM server.domain.customers.CustomerService addCustomer
+INFO: CUSTOMER_ADDED: ID=458965235, FullName=May Cohen, Phone=3244433234, Type=NEW

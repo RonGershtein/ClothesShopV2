@@ -1,0 +1,248 @@
+אוג׳ 18, 2025 7:01:44 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:11:29 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:14:02 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:14:13 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:16:48 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:17:12 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:19:07 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 7:19:12 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:22:12 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:23:38 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+אוג׳ 18, 2025 7:33:56 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:36:28 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 7:37:08 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:38:20 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 7:46:32 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:58:30 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 7:59:48 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 7:59:49 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 7:59:50 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 8:08:21 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 8:09:23 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 8:09:24 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 8:15:43 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 8:15:52 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 8:54:19 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 8:55:20 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 9:11:46 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 9:23:41 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 9:32:18 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 9:32:19 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 9:34:46 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 9:43:38 PM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 18, 2025 9:45:01 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 9:45:02 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 10:55:50 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 18, 2025 10:55:51 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+Aug 22, 2025 11:44:29 AM server.client.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 22, 2025 11:47:33 AM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+Aug 22, 2025 11:47:35 AM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+Aug 27, 2025 1:52:25 AM server.app.StoreServer start
+SEVERE: StoreServer fatal error: Address already in use
+Aug 27, 2025 1:52:32 AM server.app.StoreServer start
+SEVERE: StoreServer fatal error: Address already in use
+Aug 27, 2025 1:52:39 AM server.app.StoreServer start
+SEVERE: StoreServer fatal error: Address already in use
+Aug 27, 2025 2:01:07 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:01:27 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:01:33 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:02:02 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:02:23 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:09:31 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:12:04 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:14:42 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:15:43 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:21:57 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:24:48 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:30:53 AM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 2:48:58 AM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: SKU not found in branch
+Aug 27, 2025 6:17:59 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 6:36:53 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 6:40:03 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: SKU not found for update: 3333 at RISHON
+Aug 27, 2025 6:51:52 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+Aug 27, 2025 6:54:18 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+Aug 27, 2025 6:59:56 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:07:45 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:17:33 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:26:14 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:30:15 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:38:08 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 7:56:29 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 8:16:25 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 8:18:09 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+Aug 27, 2025 8:40:15 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 27, 2025 10:04:46 אחה״צ server.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 27, 2025 11:51:52 אחה״צ server.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 27, 2025 11:58:12 אחה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 27, 2025 11:58:13 אחה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:00:05 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:00:43 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:01:02 לפנה״צ server.app.StoreServer start
+INFO: StoreServer started on port 5050
+אוג׳ 28, 2025 12:05:55 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:05:57 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:05:58 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+אוג׳ 28, 2025 12:05:59 לפנה״צ server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 5:40:44 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 5:54:55 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 6:03:11 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+ספט׳ 03, 2025 6:09:39 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 6:11:50 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 6:13:04 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 6:29:55 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 7:05:07 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 7:11:17 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 7:11:26 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 7:25:08 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 7:30:43 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 7:33:32 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 7:34:02 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 7:38:11 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 8:04:50 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 8:06:29 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 03, 2025 8:14:33 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 8:15:01 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 8:16:45 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 8:51:14 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 9:03:02 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: SKU not found in branch
+ספט׳ 03, 2025 9:04:04 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 9:51:04 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 03, 2025 9:52:23 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: SKU not found in branch: 1
+ספט׳ 03, 2025 9:53:04 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 12:18:07 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 12:20:59 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 12:21:54 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 12:39:04 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 12:42:09 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 12:45:01 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 12:56:21 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 12:56:51 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 12:59:47 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 1:00:42 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 1:01:22 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+ספט׳ 05, 2025 1:01:43 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 1:06:22 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 1:07:09 PM server.net.ClientHandler run
+SEVERE: Client error: java.net.SocketException: Connection reset
+ספט׳ 05, 2025 1:07:27 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: Customer not found
+ספט׳ 05, 2025 1:08:44 PM server.app.StoreServer start
+INFO: StoreServer started on port 5050
+ספט׳ 05, 2025 1:11:10 PM server.net.ClientHandler run
+SEVERE: Client error: java.lang.IllegalStateException: SKU not found for update: 4554 at HOLON

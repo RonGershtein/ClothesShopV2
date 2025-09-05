@@ -1,0 +1,9 @@
+timestamp,conversation_id,event_type,participants,details
+2025-08-27 20:42:27,94f78cbd,STARTED,test,dana,Conversation started
+2025-08-27 20:43:01,94f78cbd,ENDED,,Conversation ended (duration: 33s)
+2025-08-28 00:03:48,c5934442,STARTED,nissim,test,Conversation started
+2025-08-28 00:04:34,c5934442,JOINED,nissim,test,dana,User dana joined
+2025-08-28 00:04:58,c5934442,LEFT,nissim,test,User dana left
+2025-09-03 17:55:44,b43e4982,STARTED,ron,noa,Conversation started
+2025-09-03 18:00:57,b43e4982,ENDED,,Conversation ended (duration: 312s)
+2025-09-05 13:00:34,6a2f00e8,STARTED,noa,ron,Conversation started

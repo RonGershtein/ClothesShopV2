@@ -1,0 +1,100 @@
+Aug 27, 2025 7:38:36 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+Aug 27, 2025 7:38:51 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+Aug 27, 2025 7:39:22 PM server.domain.invantory.InventoryService addNewProduct
+INFO: PRODUCT_ADDED: Branch=TEL_AVIV, ID=3002, Category=Gloves, Quantity=10, Price=9.90
+Aug 27, 2025 7:39:43 PM server.domain.invantory.InventoryService removeProduct
+INFO: PRODUCT_REMOVED: Branch=TEL_AVIV, ID=3002, Category=Gloves, Quantity=10, Price=9.90
+אוג׳ 27, 2025 11:54:47 אחה״צ server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+אוג׳ 27, 2025 11:55:02 אחה״צ server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+אוג׳ 27, 2025 11:55:33 אחה״צ server.domain.invantory.InventoryService addNewProduct
+INFO: PRODUCT_ADDED: Branch=TEL_AVIV, ID=3002, Category=HAT, Quantity=40, Price=12.90
+אוג׳ 27, 2025 11:55:57 אחה״צ server.domain.invantory.InventoryService removeProduct
+INFO: PRODUCT_REMOVED: Branch=TEL_AVIV, ID=3002, Category=HAT, Quantity=40, Price=12.90
+ספט׳ 03, 2025 6:01:33 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 03, 2025 6:12:43 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=503, Price=149.90
+ספט׳ 03, 2025 9:04:18 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1002, Category=SHIRT, Quantity=1, Price=39.90
+ספט׳ 03, 2025 9:06:27 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:06:46 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:06:50 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:06:54 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:06:59 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:07:05 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:07:11 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:07:16 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:07:20 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=2001, Category=JACKET, Quantity=1, Price=249.00
+ספט׳ 03, 2025 9:52:09 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=HOLON, ID=1001, Category=JEANS, Quantity=5000, Price=149.90
+ספט׳ 03, 2025 9:53:26 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+ספט׳ 03, 2025 9:53:26 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1002, Category=SHIRT, Quantity=1, Price=39.90
+ספט׳ 03, 2025 9:53:26 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=2, Base=189.80, Discount=22.7760, Final=167.0240, Gift=false
+ספט׳ 03, 2025 9:53:41 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=300, Price=149.90
+ספט׳ 03, 2025 9:53:41 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=44970.00, Discount=5396.4000, Final=39573.6000, Gift=true
+ספט׳ 05, 2025 12:40:55 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=5, Price=149.90
+ספט׳ 05, 2025 12:40:55 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=749.50, Discount=89.9400, Final=659.5600, Gift=true
+ספט׳ 05, 2025 1:01:50 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:01:50 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=NEW, Items=1, Base=1499.00, Discount=0, Final=1499.00, Gift=true
+ספט׳ 05, 2025 1:02:15 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=3000, Price=149.90
+ספט׳ 05, 2025 1:02:15 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=449700.00, Discount=53964.0000, Final=395736.0000, Gift=true
+ספט׳ 05, 2025 1:02:47 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:02:47 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=3, Type=NEW, Items=1, Base=1499.00, Discount=0, Final=1499.00, Gift=true
+ספט׳ 05, 2025 1:06:44 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:06:44 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=3, Type=NEW, Items=1, Base=1499.00, Discount=0, Final=1499.00, GiftEligible=false, Gifted=false
+ספט׳ 05, 2025 1:07:47 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:07:47 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=1499.00, Discount=179.8800, Final=1319.1200, GiftEligible=true, Gifted=false
+ספט׳ 05, 2025 1:08:55 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:08:55 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=1499.00, Discount=179.8800, Final=1319.1200, GiftEligible=true, Gifted=false
+ספט׳ 05, 2025 1:09:40 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:09:40 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=3, Type=RETURNING, Items=1, Base=1499.00, Discount=74.9500, Final=1424.0500, GiftEligible=false, Gifted=false
+ספט׳ 05, 2025 1:10:25 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:10:25 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=1499.00, Discount=179.8800, Final=1319.1200, GiftEligible=true, Gifted=false
+ספט׳ 05, 2025 1:11:45 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=HOLON, ID=1002, Category=SHIRT, Quantity=100, Price=39.90
+ספט׳ 05, 2025 1:11:55 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=10, Price=149.90
+ספט׳ 05, 2025 1:11:55 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1002, Category=SHIRT, Quantity=1, Price=39.90
+ספט׳ 05, 2025 1:11:55 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=1, Type=VIP, Items=1, Base=1499.00, Discount=179.8800, Final=1319.1200, GiftEligible=true, Gifted=true
+ספט׳ 05, 2025 1:12:43 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=HOLON, ID=1001, Category=JEANS, Quantity=1500, Price=149.90
+ספט׳ 05, 2025 1:12:43 PM server.net.ClientHandler run
+INFO: SALE_MULTI: Branch=HOLON, Customer=3, Type=RETURNING, Items=1, Base=224850.00, Discount=11242.5000, Final=213607.5000, GiftEligible=false, Gifted=false
